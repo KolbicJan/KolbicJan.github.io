@@ -1,0 +1,148 @@
+*
+{
+  background-color: black;
+}
+
+h2
+{
+  font-family: tahoma;
+  font size: 15px;
+  color:white;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding-bottom: 20px;
+}
+
+td,tr{
+
+  height: 250px;
+  width: 250px;
+}
+
+.center {
+  table-layout: fixed;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 0px;
+  padding: 10px;
+}
+.button{
+  font-size: 15px;
+  text-align: center;
+  color:white;
+}
+.button:hover
+{
+transform: scale(1.1);
+}
+.button_o{
+  font-size: 15px;
+  text-align: center;
+  color:white;
+}
+.button_o:hover
+{
+transform: scale(1.1);
+}
+
+.img_bu
+{
+  width:100px;
+  height:100px;
+  border-radius: 14px;
+}
+.box
+{
+width: 500px;
+height:550px;
+background-image:url("SKY.jpg");
+margin:auto;
+border-radius: 14px;
+}
+.box_s
+{
+  width: auto;
+  height: 37%;
+  background:black;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 14px;
+  opacity:100%;
+}
+.box_h
+{
+  width: 500px;
+  height:550px;
+  background-image:url("HOUSE.jpg");
+  margin:auto;
+  border-radius: 14px;
+}
+.box_sh
+{
+  width: auto;
+  height: 37%;
+  background:black;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 14px;
+  opacity:30%;
+}
+.box_shg
+{
+  width: auto;
+  height: 37%;
+  background:white;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 14px;
+  opacity:100%;
+}
+.img_w
+{
+  width:100%;
+  object-fit: none;
+  height:100%;
+  border-radius: 14px;
+}
+.vid
+{
+align-content: center;
+width:80%;
+margin-left:150px;
+}
+.img_h
+{
+  margin-top: auto;
+  width:40px;
+  height:40px;
+  border-radius: 14px;
+}
+.text
+{
+  font-family: tahoma;
+  font-size: 18px;
+  text-align: center;
+  color:white;
+  margin-top:auto;
+  margin-bottom:auto;
+  opacity:100%;
+}
+.deg
+{
+  font-family: tahoma;
+  font-size: 18px;
+  text-align: center;
+  color:white;
+  font-family: tahoma;
+  font-size: 18px;
+  text-align: center;
+  color:white;
+}
